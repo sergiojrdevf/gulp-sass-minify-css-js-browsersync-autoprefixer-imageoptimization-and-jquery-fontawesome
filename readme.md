@@ -1,4 +1,4 @@
-<h1>Tema base com Modulos do Gulp, jQuery e Font Awesome</h1>
+# Tema base com Modulos do Gulp, jQuery e Font Awesome
 
 <h2>CSS</h2>
 <p>Crie os arquivos .scss na pasta Css/Components/ e importe ele em Css/Style-import.scss.</p>
