@@ -1,0 +1,43 @@
+/* Use @import 'components/name-file' to import any Sass file created  */
+html, body {
+  height: 100%;
+  background: #cf4646; }
+
+body {
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  margin: 0; }
+
+.container {
+  max-width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto; }
+
+li {
+  list-style-type: disc; }
+
+.hierarchical-list {
+  padding: 30px 40px;
+  border: 2px solid #fff;
+  border-radius: 4px; }
+
+main {
+  margin-bottom: 100px; }
+
+header {
+  border-bottom: 1px solid #fff; }
+
+footer {
+  background: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center; }
+  footer ul {
+    padding: 0; }
+    footer ul li {
+      display: inline-block;
+      list-style-type: none;
+      margin: 0 10px; }
+      footer ul li a {
+        color: #fff;
+        font-size: 30px; }
